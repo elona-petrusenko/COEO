@@ -1,0 +1,22 @@
+#wrapper {
+	position: relative;
+	overflow: hidden;
+}
+
+.btn {
+	display: inline-block;
+	vertical-align: middle;
+	text-align: center;
+	font-size: 18px;
+	font-weight: 600;
+	color: $brown;
+	background: $yellow;
+	min-width: 287px;
+	padding: 19px 15px;
+	border-radius: 2em;
+	box-shadow: 0 2px 3px rgba($brown, .5);
+	&:hover {
+		background: #deff00;
+		color: $brown;
+	}
+}

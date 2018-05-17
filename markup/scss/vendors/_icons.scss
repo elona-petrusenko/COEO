@@ -1,0 +1,107 @@
+@font-face {
+	font-family: 'icomoon';
+	src:  url('../fonts/icomoon-new.eot?8q5s4d');
+	src:  url('../fonts/icomoon-new.eot?8q5s4d#iefix') format('embedded-opentype'),
+		url('../fonts/icomoon-new.ttf?8q5s4d') format('truetype'),
+		url('../fonts/icomoon-new.woff?8q5s4d') format('woff'),
+		url('../fonts/icomoon-new.svg?8q5s4d#icomoon-new') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class^="icons-"], [class*=" icons-"] {
+	/* use !important to prevent issues with browser extensions that change fonts */
+	font-family: 'icomoon' !important;
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.icons-coeo:before {
+	content: "\e912";
+}
+.icons-play:before {
+	content: "\e906";
+}
+.icons-message:before {
+	content: "\e908";
+}
+.icons-profile:before {
+	content: "\e910";
+}
+.icons-arrow-back:before {
+	content: "\e900";
+}
+.icons-bag:before {
+	content: "\e901";
+}
+.icons-check:before {
+	content: "\e902";
+}
+.icons-close:before {
+	content: "\e903";
+}
+.icons-contact:before {
+	content: "\e905";
+}
+.icons-download:before {
+	content: "\e907";
+}
+.icons-facebook:before {
+	content: "\e909";
+}
+.icons-google:before {
+	content: "\e90a";
+}
+.icons-hive:before {
+	content: "\e90b";
+}
+.icons-ico-1:before {
+	content: "\e90c";
+}
+.icons-insta:before {
+	content: "\e90d";
+}
+.icons-linked:before {
+	content: "\e90e";
+}
+.icons-mail:before {
+	content: "\e90f";
+}
+.icons-men-1:before {
+	content: "\e911";
+}
+.icons-notifications:before {
+	content: "\e913";
+}
+.icons-off:before {
+	content: "\e914";
+}
+.icons-pen:before {
+	content: "\e915";
+}
+.icons-phone:before {
+	content: "\e916";
+}
+.icons-photo:before {
+	content: "\e917";
+}
+.icons-search:before {
+	content: "\e91d";
+}
+.icons-share:before {
+	content: "\e91f";
+}
+.icons-sms:before {
+	content: "\e920";
+}
+.icons-twitter:before {
+	content: "\e921";
+}
